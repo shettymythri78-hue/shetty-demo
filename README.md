@@ -1,2 +1,2 @@
 # shetty-demo
-This is a git and github class
+This is a  demo git and github class!
